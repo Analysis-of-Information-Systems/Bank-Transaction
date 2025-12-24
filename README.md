@@ -51,9 +51,6 @@ The project analyzes the process from the **initial client arrival** to the **fi
 
 ---
 
-
-
-
 ## Methodologies Used
 
 The documentation includes the following industry-standard system modeling techniques:
