@@ -40,6 +40,20 @@ The project analyzes the process from the **initial client arrival** to the **fi
 
 ---
 
+## Table of Contents
+
+| Section               | Title                   | Description                                      |
+|----------------------:|------------------------|-------------------------------------------------|
+| diagrams              | Diagrams               | Contains diagrams and visual representations   |
+| docs                  | Documentation          | Project documentation, guides, and notes       |
+| idef3vsxx-master      | Idef3 Visio Extension  | Implementation of the extension|
+| visio                 | Visio                  | Visio source files       |
+
+---
+
+
+
+
 ## Methodologies Used
 
 The documentation includes the following industry-standard system modeling techniques:
@@ -103,17 +117,9 @@ The workflow includes the following critical checkpoints:
 
 ---
 
-## Contents
+## Installation Guide
 
-| Section | Title                               | Pages |
-|--------:|-------------------------------------|:-----:|
-| A1      | Verbal Analysis                     | 4–5   |
-| A2      | Flowchart                           | 6–7   |
-| A3      | Deployment Flowchart                | 7–8   |
-| A4      | EPC Chart                           | 8–9   |
-| A5      | IDEF0 Diagram                       | 9–12  |
-| A6      | IDEF3 Workflow Diagram              | 12–13 |
-| A7      | IDEF3 State Transition Diagram      | 13–14 |
-| A8      | Data Flow Diagram                   | 14–15 |
-
----
+Clone this repository to your local machine. 
+```bash
+git clone https://github.com/Analysis-of-Information-Systems/Bank-Transaction.git
+``` 
