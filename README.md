@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center" style="letter-spacing: 1px;">
-  Bank Tranastion Analysis and Design
+  Bank Transaction Analysis and Design
 </h1>
 
 <p align="center">
