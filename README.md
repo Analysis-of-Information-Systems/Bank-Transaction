@@ -19,13 +19,13 @@
 </h1>
 
 <p align="center">
-  <strong>Vasileios Evangelos Athanasiou</strong><br>
-  <a href="https://github.com/Ath21" target="_blank">GitHub</a> 
+  <strong>Vasileios Evangelos Athanasiou</strong> -
+  <a href="https://github.com/Ath21" target="_blank">GitHub</a><br> 
   Student ID: 19390005
 </p>
 
 <p align="center">
-  Supervisor: Theodosios Pavlidis, Special Technical Laboratory Staff
+  Supervisor: Theodosios Pavlidis, Special Technical Laboratory Staff -
   <a href="https://ice.uniwa.gr/emd_person/17586/" target="_blank">UNIWA Profile</a>
 </p>
 
