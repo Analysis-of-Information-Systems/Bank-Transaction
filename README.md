@@ -21,6 +21,7 @@
 <p align="center">
   <strong>Vasileios Evangelos Athanasiou</strong> -
   <a href="https://github.com/Ath21" target="_blank">GitHub</a><br> 
+  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">, LinkedIn</a><br> 
   Student ID: 19390005
 </p>
 
