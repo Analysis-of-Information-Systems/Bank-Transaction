@@ -42,12 +42,21 @@ The project analyzes the process from the **initial client arrival** to the **fi
 
 ## Table of Contents
 
-| Section               | Title                   | Description                                      |
-|----------------------:|------------------------|-------------------------------------------------|
-| diagrams              | Diagrams               | Contains diagrams and visual representations   |
-| docs                  | Documentation          | Project documentation, guides, and notes       |
-| idef3vsxx-master      | Idef3 Visio Extension  | Implementation of the extension|
-| visio                 | Visio                  | Visio source files       |
+| Section | Folder | Description |
+|------:|--------|-------------|
+| 1 | `docs/` | Project documentation for the Bank Transaction system |
+| 1.1 | `docs/Bank-Transaction.pdf` | English documentation describing the bank transaction process |
+| 1.2 | `docs/Τραπεζική-Συναλλαγή.pdf` | Greek documentation of the bank transaction process |
+| 2 | `diagrams/` | Exported diagrams illustrating system workflows |
+| 2.1 | `diagrams/A2.png` – `A8.png` | PNG diagrams representing different stages of the transaction process |
+| 3 | `visio/` | Editable Microsoft Visio diagrams |
+| 3.1 | `visio/A2.vsdx` – `A8.vsdx` | Visio source files for process modeling diagrams |
+| 4 | `idef3vssx-master/` | IDEF3 stencil and example resources |
+| 4.1 | `idef3vssx-master/IDEF3_Example.vsdx` | Example IDEF3 process diagram |
+| 4.2 | `idef3vssx-master/IDEF3.vssx` | IDEF3 stencil used for diagram creation |
+| 4.3 | `idef3vssx-master/README.md` | Usage instructions for the IDEF3 stencil |
+| 5 | `README.md` | Repository overview and project description |
+
 
 ---
 
