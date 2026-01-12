@@ -133,9 +133,53 @@ The workflow includes the following critical checkpoints:
 
 ---
 
-# Installation Guide
+# Installation & Setup Guide
 
-Clone this repository to your local machine. 
+This project is a **documentation-based academic study**.  
+No software compilation, runtime environment, or execution is required.
+
+The setup process focuses on obtaining the repository and accessing the provided documentation and diagrams.
+
+---
+
+## Prerequisites
+
+### Required Software
+- **Git** (optional, for cloning the repository)
+- **PDF Reader**
+  - Adobe Acrobat Reader, browser-based PDF viewer, or equivalent
+- **Image Viewer**
+  - For viewing exported diagrams (`.png`)
+- **Microsoft Visio** (optional)
+  - Required only if you want to edit the original `.vsdx` diagrams
+
+### Supported Operating Systems
+- Windows
+- Linux
+- macOS
+
+---
+
+## Installation Steps
+
+### 1. Clone the Repository
+
+Use Git to clone the repository locally:
+
 ```bash
 git clone https://github.com/Analysis-of-Information-Systems/Bank-Transaction.git
-``` 
+```
+
+#### Alternative (Without Git)
+
+- Open the repository URL in your browser
+- Click Code → Download ZIP
+- Extract the ZIP file to a local directory
+
+---
+
+## Open the Documentation
+1. Navigate to the docs/ directory
+2. Open the report corresponding to your preferred language:
+    - English: `Bank-Transaction.pdf`
+    - Greek: `Τραπεζική-Συναλλαγή.pdf`
