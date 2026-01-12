@@ -179,7 +179,7 @@ git clone https://github.com/Analysis-of-Information-Systems/Bank-Transaction.gi
 ---
 
 ## Open the Documentation
-1. Navigate to the docs/ directory
+1. Navigate to the `docs/` directory
 2. Open the report corresponding to your preferred language:
     - English: `Bank-Transaction.pdf`
     - Greek: `Τραπεζική-Συναλλαγή.pdf`
