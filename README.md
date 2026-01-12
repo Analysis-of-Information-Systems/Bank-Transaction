@@ -30,6 +30,9 @@
 
 <p align="center">
   Supervisor: Theodosios Pavlidis, Special Technical Laboratory Staff<br>
+</p>
+
+<p align="center">
   <a href="https://ice.uniwa.gr/emd_person/17586/" target="_blank">UNIWA Profile</a>
 </p>
 
