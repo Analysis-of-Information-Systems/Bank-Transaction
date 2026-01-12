@@ -1,38 +1,63 @@
 <p align="center">
-  <img src="https://www.especial.gr/wp-content/uploads/2019/03/panepisthmio-dut-attikhs.png" alt="UNIWA" width="150"/>
+  <img src="https://www.especial.gr/wp-content/uploads/2019/03/panepisthmio-dut-attikhs.png"
+       alt="UNIWA"
+       width="150"
+       style="margin-bottom: 10px;" />
 </p>
 
-<p align="center">
-  <strong>UNIVERSITY OF WEST ATTICA</strong><br>
-  SCHOOL OF ENGINEERING<br>
-  DEPARTMENT OF COMPUTER ENGINEERING AND INFORMATICS
+<p align="center" style="line-height: 1.5;">
+  <strong style="font-size: 18px;">UNIVERSITY OF WEST ATTICA</strong><br>
+  <span style="font-size: 14px;">SCHOOL OF ENGINEERING</span><br>
+  <span style="font-size: 14px;">DEPARTMENT OF COMPUTER ENGINEERING AND INFORMATICS</span>
 </p>
 
-<hr/>
+<hr style="width: 60%; margin: 20px auto;"/>
 
-<p align="center">
-  <strong>Analysis and Design of Information Systems</strong>
+<p align="center" style="font-size: 16px; font-weight: 600;">
+  Analysis and Design of Information Systems
 </p>
 
-<h1 align="center" style="letter-spacing: 1px;">
+<h1 align="center" style="letter-spacing: 1px; margin-top: 10px;">
   Bank Transaction Analysis and Design
 </h1>
 
-<p align="center">
-  <strong>Vasileios Evangelos Athanasiou</strong> -
-  <a href="https://github.com/Ath21" target="_blank">GitHub</a><br>,  
-  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a><br> 
-  Student ID: 19390005
+<p align="center" style="margin-top: 20px; line-height: 1.8;">
+  <strong style="font-size: 16px;">Vasileios Evangelos Athanasiou</strong><br>
+
+  <a href="https://github.com/Ath21" target="_blank"
+     style="text-decoration: none; margin: 0 6px; padding: 6px 12px;
+            border-radius: 6px; background-color: #24292e; color: #ffffff;
+            font-size: 13px;">
+    GitHub
+  </a>
+
+  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank"
+     style="text-decoration: none; margin: 0 6px; padding: 6px 12px;
+            border-radius: 6px; background-color: #0a66c2; color: #ffffff;
+            font-size: 13px;">
+    LinkedIn
+  </a>
+  <br>
+
+  <span style="font-size: 13px;">Student ID: 19390005</span>
 </p>
 
-<p align="center">
-  Supervisor: Theodosios Pavlidis, Special Technical Laboratory Staff -
-  <a href="https://ice.uniwa.gr/emd_person/17586/" target="_blank">UNIWA Profile</a>
+<p align="center" style="margin-top: 16px; font-size: 14px;">
+  <strong>Supervisor:</strong> Theodosios Pavlidis<br>
+  <span style="font-size: 13px;">Special Technical Laboratory Staff</span><br>
+
+  <a href="https://ice.uniwa.gr/emd_person/17586/" target="_blank"
+     style="text-decoration: none; padding: 6px 14px;
+            border-radius: 6px; border: 1px solid #555;
+            color: #333; font-size: 13px; display: inline-block; margin-top: 6px;">
+    UNIWA Profile
+  </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 20px; font-size: 13px; color: #555;">
   Athens, December 2022
 </p>
+
 
 
 ## Overview
