@@ -42,7 +42,7 @@
 
 ---
 
-## Overview
+# Project Overview
 
 This repository contains a comprehensive study of a **Cash Withdrawal banking transaction procedure**, developed for the course **“Analysis and Design of Information Systems”** at the **University of West Attica (UNIWA)**.
 
@@ -133,7 +133,7 @@ The workflow includes the following critical checkpoints:
 
 ---
 
-## Installation Guide
+# Installation Guide
 
 Clone this repository to your local machine. 
 ```bash
