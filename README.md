@@ -153,11 +153,6 @@ The setup process focuses on obtaining the repository and accessing the provided
 - **Microsoft Visio** (optional)
   - Required only if you want to edit the original `.vsdx` diagrams
 
-### Supported Operating Systems
-- Windows
-- Linux
-- macOS
-
 ---
 
 ## Installation Steps
