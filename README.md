@@ -28,13 +28,30 @@
   <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
 </p>
 
+<hr/>
+
 <p align="center">
-  Supervisor: Theodosios Pavlidis, Special Technical Laboratory Staff<br>
+  <strong>Supervision</strong>
+</p>
+
+<p align="center">
+  Supervisor: Georgios Miaoulis, Professor<br>
+</p>
+
+<p align="center">
+  <a href="https://ice.uniwa.gr/emd_person/17375/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/georgiosmiaoulis/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Co-supervisor: Theodosios Pavlidis, Special Technical Laboratory Staff<br>
 </p>
 
 <p align="center">
   <a href="https://ice.uniwa.gr/emd_person/17586/" target="_blank">UNIWA Profile</a>
 </p>
+
+</hr>
 
 <p align="center">
   Athens, December 2022
