@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">
-  Bank Transaction Analysis and Design
+  Cash Withdrawal Analysis and Design
 </h1>
 
 <p align="center">
@@ -53,11 +53,17 @@
 
 </hr>
 
+---
+
 <p align="center">
   Athens, December 2022
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://blogassets.airtel.in/wp-content/uploads/2022/06/5-445x265.jpg" width="250"/>
+</p>
 
 # Project Overview
 
