@@ -119,7 +119,8 @@ The project analyzes the process from the **initial client arrival** to the **fi
 |     4.1 | `idef3vssx-master/IDEF3_Example.vsdx` | Example IDEF3 process diagram                                         |
 |     4.2 | `idef3vssx-master/IDEF3.vssx`         | IDEF3 stencil used for diagram creation                               |
 |     4.3 | `idef3vssx-master/README.md`          | Usage instructions for the IDEF3 stencil                              |
-|       5 | `README.md`                           | Repository overview and project description                           |
+|       5 | `README.md`                           | Project documentation                                                 |
+|       6 | `INSTALL.md`                          | Usage instructions                                                    |
 
 ---
 
